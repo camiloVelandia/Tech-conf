@@ -8,4 +8,4 @@ Clone, enjoy and give me a star!
 You can see the demo [here](https://camilovelandia.github.io/Tech-conf/)
 
 ## Preview
-![](/preview.png)
+![](/preview.jpg)
